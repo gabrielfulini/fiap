@@ -1,0 +1,28 @@
+F:\Área de Trabalho\Aula1\Aula1\bin\Debug\net8.0\Aula1.exe
+F:\Área de Trabalho\Aula1\Aula1\bin\Debug\net8.0\Aula1.deps.json
+F:\Área de Trabalho\Aula1\Aula1\bin\Debug\net8.0\Aula1.runtimeconfig.json
+F:\Área de Trabalho\Aula1\Aula1\bin\Debug\net8.0\Aula1.dll
+F:\Área de Trabalho\Aula1\Aula1\bin\Debug\net8.0\Aula1.pdb
+F:\Área de Trabalho\Aula1\Aula1\obj\Debug\net8.0\Aula1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Área de Trabalho\Aula1\Aula1\obj\Debug\net8.0\Aula1.AssemblyInfoInputs.cache
+F:\Área de Trabalho\Aula1\Aula1\obj\Debug\net8.0\Aula1.AssemblyInfo.cs
+F:\Área de Trabalho\Aula1\Aula1\obj\Debug\net8.0\Aula1.csproj.CoreCompileInputs.cache
+F:\Área de Trabalho\Aula1\Aula1\obj\Debug\net8.0\Aula1.dll
+F:\Área de Trabalho\Aula1\Aula1\obj\Debug\net8.0\refint\Aula1.dll
+F:\Área de Trabalho\Aula1\Aula1\obj\Debug\net8.0\Aula1.pdb
+F:\Área de Trabalho\Aula1\Aula1\obj\Debug\net8.0\Aula1.genruntimeconfig.cache
+F:\Área de Trabalho\Aula1\Aula1\obj\Debug\net8.0\ref\Aula1.dll
+F:\Área de Trabalho\codigos fiap\Aula1\Aula1\bin\Debug\net8.0\Aula1.exe
+F:\Área de Trabalho\codigos fiap\Aula1\Aula1\bin\Debug\net8.0\Aula1.deps.json
+F:\Área de Trabalho\codigos fiap\Aula1\Aula1\bin\Debug\net8.0\Aula1.runtimeconfig.json
+F:\Área de Trabalho\codigos fiap\Aula1\Aula1\bin\Debug\net8.0\Aula1.dll
+F:\Área de Trabalho\codigos fiap\Aula1\Aula1\bin\Debug\net8.0\Aula1.pdb
+F:\Área de Trabalho\codigos fiap\Aula1\Aula1\obj\Debug\net8.0\Aula1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Área de Trabalho\codigos fiap\Aula1\Aula1\obj\Debug\net8.0\Aula1.AssemblyInfoInputs.cache
+F:\Área de Trabalho\codigos fiap\Aula1\Aula1\obj\Debug\net8.0\Aula1.AssemblyInfo.cs
+F:\Área de Trabalho\codigos fiap\Aula1\Aula1\obj\Debug\net8.0\Aula1.csproj.CoreCompileInputs.cache
+F:\Área de Trabalho\codigos fiap\Aula1\Aula1\obj\Debug\net8.0\Aula1.dll
+F:\Área de Trabalho\codigos fiap\Aula1\Aula1\obj\Debug\net8.0\refint\Aula1.dll
+F:\Área de Trabalho\codigos fiap\Aula1\Aula1\obj\Debug\net8.0\Aula1.pdb
+F:\Área de Trabalho\codigos fiap\Aula1\Aula1\obj\Debug\net8.0\Aula1.genruntimeconfig.cache
+F:\Área de Trabalho\codigos fiap\Aula1\Aula1\obj\Debug\net8.0\ref\Aula1.dll
